@@ -1,0 +1,8 @@
+public class RectangleArea {
+    public static void main(String[] args) {
+        double length = 10.5; //Example length
+        double width = 5.2; //Example width
+        double area = length * width;
+        System.out.println("The area of the rectangle is: " + area);
+    }
+}
